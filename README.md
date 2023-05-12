@@ -11,6 +11,13 @@ Realizar a análise e manipulação dos datasets (ajustes, limpezas e tratamento
 
 https://brasil.io/dataset/covid19/files/
 
+## Arquivos
+
+Link.txt: arquivo contendo link de acesso aos datasets
+Relatório.pdf: relatório simples com explicação do raciocinio por trás de cada tomada de decisão e respondendo as perguntas da demanda
+Tratamento.jpynb: script do editor de códigos Jupyter Notebook (Python) para o tratamento dos dados
+novo_caso_full - Relatório.pbix: relatório do Power BI com dashboards analíticos
+
 ## Etapas do projeto
 - 1. Entendimento dos datasets disponibilizados e suas características
 - 2. Tratamento dos dados
