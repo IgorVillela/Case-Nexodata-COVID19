@@ -7,6 +7,10 @@ Neste case fictício, você como o novo Analista de Dados tem uma demanda do tim
 ## Objetivo
 Realizar a análise e manipulação dos datasets (ajustes, limpezas e tratamentos), usar uma plataforma de visualização (Power BI), fazer um relatório simples explicando o raciocínio por trás das decisões tomadas e respondendo as perguntas: Quais as cidades do Brasil que apresentam maior crescimento na taxa de mortalidade? Quais características em comum dessas cidades justificam a taxa de mortalidade crescente que se destaca do restante?
 
+## Link datasets
+
+https://brasil.io/dataset/covid19/files/
+
 ## Etapas do projeto
 - 1. Entendimento dos datasets disponibilizados e suas características
 - 2. Tratamento dos dados
