@@ -18,8 +18,8 @@ Para abrir os arquivos: <br>
 -os <br>
 -gzip <br>
 
-Para o tratamento dos dados:
--pandas
+Para o tratamento dos dados: <br>
+-pandas <br>
 
 ## Detalhes importantes
 Para o devido funcionamento do script, os datasets devem estar compactados e na mesma pasta em que o script se encontra. Na execução completa do script, será gerado um novo arquivo 'novo_caso_full.csv.gz' que não há necessidade de descompactar.
