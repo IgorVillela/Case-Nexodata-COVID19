@@ -14,9 +14,9 @@ Realizar a análise e manipulação dos datasets (ajustes, limpezas e tratamento
 - 4. Interpretação dos resultados
 
 ## Bibliotecas utilizadas
-Para abrir os arquivos:
--os
--gzip
+Para abrir os arquivos: <br>
+-os <br>
+-gzip <br>
 
 Para o tratamento dos dados:
 -pandas
